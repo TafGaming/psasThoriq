@@ -1,5 +1,5 @@
-# Aplikasi Nilai
-## CRUD kelas
+# Psas Thoriq Akhtar Febrian
+## CRUD Mapel
 Membuat CRUD
 
 Create
@@ -7,8 +7,3 @@ Read
 Update
 Delete
 
-Dengan kolom database seperti berikut
-id
-kelas
-kapasitas
-terisi
